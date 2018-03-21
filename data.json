@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"about.png",
+    "name":"aravind",
+    "email":"KATHRIMALAARAVIND@GMAIL.COM.in",
+    "mobile":"9573771765"
+  },
+  "education":[
+    {
+      "course":"B.tech(computer science and engineering)",
+      "Institution":[
+        "g pullaiah college of engineering",
+        "2016-2019",
+        "70"
+      ]
+    },
+    {
+  "course":"diploma",
+  "Institution":[
+  "muslim minority college",
+  "2012-2016",
+  "75"
+]
+},
+{
+  "course":"ssc",
+  "Institution":[
+    "sri saraswathi shishumandir",
+    "80"
+  ]
+}
+  ]
+}
