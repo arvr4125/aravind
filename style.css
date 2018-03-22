@@ -10,7 +10,7 @@ flex-direction: row;
   margin:5px 3px 1px 10px;
   padding:5px;
   background-color: #999;
-  background-image: url("image1.jpg");
+  background-image: url("image2.jpg");
 }
 .left img{
   width: 50px;
@@ -24,7 +24,7 @@ flex-direction: row;
   margin:3px;
   padding:5px;
   background-color: #999;
-    background-image: url("image1.jpg");
+    background-image: url("image2.jpg");
 }
 #name{
   color: #000;
